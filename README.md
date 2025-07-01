@@ -8,6 +8,9 @@
  This provide and support efficient and effective fundraising activities. 
  This project will help to find donors easily.
 
+(This project is a **university assignment** and may contain flaws or incomplete features. The code is provided for educational purposes and is not intended for production use.)
+
+
 ---
 
 ## How to Run the Website (Local Setup)
