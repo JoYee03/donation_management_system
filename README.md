@@ -10,6 +10,20 @@
 
 (This project is a **university assignment** and may contain flaws or incomplete features. The code is provided for educational purposes and is not intended for production use.)
 
+## Live Demo
+
+Website: https://dms.infinityfreeapp.com
+
+This project is a donation management system developed using PHP and MySQL. The live demo uses sample data for demonstration purposes
+
+### Demo Account
+The following accounts are available for testing:
+Role     | Username               | Password        |
+Staff    | admin                  | adminadminadmin |
+Donor    | swathi@gmail.com       | 12345678        |
+Receiver | hopechildren@gmail.com | 12345678        |
+
+Please use this account for demonstration purposes only.
 
 ---
 
