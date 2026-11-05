@@ -18,13 +18,21 @@ This project is a donation management system developed using PHP and MySQL. The 
 
 ### Demo Account
 The following accounts are available for testing:
-Role     | Username               | Password        |
 
-Staff    | admin                  | adminadminadmin |
+#### Staff
+Username: admin
 
-Donor    | swathi@gmail.com       | 12345678        |
+Password: adminadminadmin
 
-Receiver | hopechildren@gmail.com | 12345678        |
+#### Donor
+Username: swathi@gmail.com
+
+Password: 12345678
+
+#### Receiver
+Username: hopechildren@gmail.com
+
+Password: 12345678 
 
 Please use this account for demonstration purposes only.
 
